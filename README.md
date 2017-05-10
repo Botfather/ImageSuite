@@ -1,6 +1,8 @@
 
 # Utility for downloading and caching images in iOS Application
 
+Download and Cache Images to avoid making multiple requests to the web server 
+
 ## Functionalities
 
 * Uses an AsynImageView (subclass of ImageView) to asynchronously load resources
