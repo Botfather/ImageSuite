@@ -30,7 +30,7 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
         ImageManager.sharedInstance.loadBaseURL()
     }
 ```
-* Assing UIImageViews the class of AsynImageView and then use the available methods to set images
+* Assigning UIImageViews the class of AsynImageView and then use the available methods to set images
         
 ``` swift
 class DemoViewController: UIViewController {
